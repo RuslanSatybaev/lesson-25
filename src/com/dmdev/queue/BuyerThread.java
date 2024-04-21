@@ -1,7 +1,6 @@
 package com.dmdev.queue;
 
 import java.util.Queue;
-import java.util.concurrent.TimeUnit;
 
 public class BuyerThread implements Runnable {
 
